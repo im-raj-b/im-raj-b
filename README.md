@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Belashe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="50" height="50" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" width="500" height="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/rajbeleshe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rajbeleshe" height="30" width="40" /></a>
